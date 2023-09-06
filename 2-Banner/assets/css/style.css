@@ -41,7 +41,7 @@
     text-align: center;
     
   }
-  .commonBanner>h1:hover{
+  .commonBanner>h1>:hover{
     color:grey;
   }
   .banner1{
